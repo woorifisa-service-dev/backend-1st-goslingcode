@@ -20,8 +20,8 @@
 
 ### 구현하고자 한 기능
 
-<img src"img/flow.png">
+<img src="img/flow.png">
 
 ### UML
 
-<img src"img/UML.png">
+<img src="img/UML.png">
